@@ -566,6 +566,7 @@ strong{
 /* For medium devices (tablets, 600px to 900px) */
 @media only screen and (min-width: 601px) and (max-width: 900px) {
   body {
+    max-width: 900px;
     padding: 30px;
     font-size: 16px;
   }

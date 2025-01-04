@@ -1,9 +1,9 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./App.css";
 import clickSound from "./assets/click-sound.mp3"; // Import the sound file
-import portfolioVideo from "./assets/Raj IceCreams.mp4"; // Import the video file
-import portfolioVideo1 from "./assets/Raj E-commerce Website.mp4";
-import portfolioVideo2 from "./assets/Thumbnail Portfolio Website.mp4";
+// import portfolioVideo from "./assets/Raj IceCreams.mp4";
+// import portfolioVideo1 from "./assets/Raj E-commerce Website.mp4";
+// import portfolioVideo2 from "./assets/Thumbnail Portfolio Website.mp4";
 import { FaInstagram, FaLinkedin, FaGithub, FaWhatsapp } from "react-icons/fa";
 import myPhoto from "./assets/my photo.jpg";
 
@@ -149,7 +149,7 @@ function App() {
 
           <div className="video-description">
             <div className="video-container section1">
-              <video src={portfolioVideo} controls autoPlay muted loop></video>
+              <video src={process.env.PUBLIC_URL + "/assets/Raj IceCreams.mp4"} controls autoPlay muted loop></video>
             </div>
             <div className="description-container">
               <h3>Raj Ice Creams</h3>
@@ -172,7 +172,7 @@ function App() {
 
           <div className="video-description">
             <div className="video-container section1">
-              <video src={portfolioVideo1} controls autoPlay muted loop></video>
+              <video src={process.env.PUBLIC_URL + "/assets/Raj E-commerce Website.mp4"} controls autoPlay muted loop></video>
             </div>
             <div className="description-container">
               <h3>Raj E-commerce Website</h3>
@@ -203,7 +203,7 @@ function App() {
 
           <div className="video-description">
             <div className="video-container section1">
-              <video src={portfolioVideo2} controls autoPlay muted loop></video>
+              <video src={process.env.PUBLIC_URL + "/assets/Thumbnail Portfolio Website.mp4"} controls autoPlay muted loop></video>
             </div>
             <div className="description-container">
               <h3>Thumbnail Portfolio Website</h3>
