@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/Raj-Portfolio/static/css/main.2c6f3cc8.css",
-    "main.js": "/Raj-Portfolio/static/js/main.a436940c.js",
+    "main.css": "/Raj-Portfolio/static/css/main.06efb2ab.css",
+    "main.js": "/Raj-Portfolio/static/js/main.8901b651.js",
     "static/js/488.15c117bb.chunk.js": "/Raj-Portfolio/static/js/488.15c117bb.chunk.js",
-    "static/media/Raj E-commerce Website.mp4": "/Raj-Portfolio/static/media/Raj E-commerce Website.94a989ddb89ccb040496.mp4",
-    "static/media/Thumbnail Portfolio Website.mp4": "/Raj-Portfolio/static/media/Thumbnail Portfolio Website.14d5502b09fc07b9ae26.mp4",
-    "static/media/Raj IceCreams.mp4": "/Raj-Portfolio/static/media/Raj IceCreams.f0e47e5bf1151e01ab2d.mp4",
     "static/media/my photo.jpg": "/Raj-Portfolio/static/media/my photo.2550dffc552a66b5ec0a.jpg",
     "static/media/click-sound.mp3": "/Raj-Portfolio/static/media/click-sound.9b5f28cce0810e29e18a.mp3",
     "index.html": "/Raj-Portfolio/index.html",
-    "main.2c6f3cc8.css.map": "/Raj-Portfolio/static/css/main.2c6f3cc8.css.map",
-    "main.a436940c.js.map": "/Raj-Portfolio/static/js/main.a436940c.js.map",
+    "main.06efb2ab.css.map": "/Raj-Portfolio/static/css/main.06efb2ab.css.map",
+    "main.8901b651.js.map": "/Raj-Portfolio/static/js/main.8901b651.js.map",
     "488.15c117bb.chunk.js.map": "/Raj-Portfolio/static/js/488.15c117bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c6f3cc8.css",
-    "static/js/main.a436940c.js"
+    "static/css/main.06efb2ab.css",
+    "static/js/main.8901b651.js"
   ]
 }
